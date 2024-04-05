@@ -8,4 +8,3 @@ if user_guess == random_number:
     print("You Guessed the number!")
 else:
     print("Nope that was not the number!")
-
